@@ -6,5 +6,6 @@ This repository serves as a personal record of my learning journey. My goal is t
 
 - [] 
 
-### gamedev---ds-algos
-L : Learning Data structures and Algos
+### ds-algos
+### maths
+### design patterns
